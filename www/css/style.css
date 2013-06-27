@@ -1,0 +1,14 @@
+div.editor-view {
+  overflow:hidden;
+  width:200px;
+}
+ 
+div.editor-view textarea {
+  width:100px;
+  float:left;
+}
+ 
+div.editor-view span.word-counter {
+  float:left;
+  margin-left:20px;
+}
